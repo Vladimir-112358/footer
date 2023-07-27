@@ -1,0 +1,80 @@
+.container{
+    display: flex;
+    width: 1440px;
+    height: 368px;
+    background-color: #1B1742;
+}
+
+.content{
+    display: flex;
+    margin: 30px 247px 78px 9px;
+}
+
+.logo{
+    margin: 30px 89px 284px 73px;
+    width: 211px;
+    height: 54px;
+}
+
+.about{
+    margin: 15px 21px 8px 6px;
+    width: 180px;
+    height: 254px;
+}
+
+.competencies{
+    margin: 15px 21px 8px 0px;
+    width: 180px;
+    height: 254px;
+}
+
+.projects{
+    margin: 15px 21px 8px 0px;
+    width: 180px;
+    height: 252px;
+}
+
+.cooperation{
+    margin: 15px 21px 8px 0px;
+    width: 180px;
+    height: 252px;
+}
+
+li{
+    list-style-type: none;
+    margin-bottom: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: #ADADAD;
+}
+
+.about_header{
+    margin-left: 39px;
+    margin-bottom: 8px;
+    color: #67D5DC;
+}
+
+.competencies_header{
+    margin-left: 39px;
+    margin-bottom: 8px;
+    color: #67D5DC;
+}
+.projects_header{
+    margin-left: 39px;
+    margin-bottom: 8px;
+    color: #67D5DC;
+}
+
+.cooperation_header{
+    margin-left: 39px;
+    margin-bottom: 8px;
+    color: #67D5DC;
+}
+
+.line{
+    display: flex;
+    position: absolute;
+    margin-top: 100px;
+}
