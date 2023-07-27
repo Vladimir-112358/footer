@@ -1,11 +1,11 @@
-.container{
+.footer_container{
     display: flex;
     width: 1440px;
     height: 368px;
     background-color: #1B1742;
 }
 
-.content{
+.footer_content{
     display: flex;
     margin: 30px 247px 78px 9px;
 }
